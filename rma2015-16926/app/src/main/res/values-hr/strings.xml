@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unknown Genius</string>
+    <string name="buttonChangeToSimilar">Prikaži slične muzičare</string>
+    <string name="buttonChangeToTopFive">Prikaži top 5 pjesama</string>
+    <string name="buttonPretraga">Pretraga</string>
+    <string name="buttonSendInfo">Pošalji podatke</string>
+    <string name="labelBiography">Biografija</string>
+    <string name="labelGenre">Žanr</string>
+    <string name="labelName">Ime</string>
+    <string name="slicniMuzicariTekst">Slični muzičari</string>
+    <string name="labelTopFive">Top 5 pjesama</string>
+    <string name="labelWebPage">Web stranica</string>
+</resources>

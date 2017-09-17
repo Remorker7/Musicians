@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Unknown Genius</string>
+    <string name="buttonChangeToSimilar">Show similar musicians</string>
+    <string name="buttonChangeToTopFive">Show top 5 songs</string>
+    <string name="buttonPretraga">Search</string>
+    <string name="buttonSendInfo">Send data</string>
+    <string name="labelBiography">Biography</string>
+    <string name="labelGenre">Genre</string>
+    <string name="labelName">Name</string>
+    <string name="slicniMuzicariTekst">Similar musicians</string>
+    <string name="labelTopFive">Top 5 songs</string>
+    <string name="labelWebPage">Web page</string>
+</resources>
